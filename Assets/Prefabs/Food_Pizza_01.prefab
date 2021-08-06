@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 2418098458643847471}
   - component: {fileID: 8370976653268141866}
   - component: {fileID: 6277329708135721207}
-  - component: {fileID: 2120381911858804006}
+  - component: {fileID: 4082180716395601336}
   m_Layer: 0
   m_Name: Food_Pizza_01
   m_TagString: Untagged
@@ -123,7 +123,7 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 0.4597009, y: 0.13234863, z: 0.5536317}
   m_Center: {x: 0, y: 0, z: -0.00000019371512}
---- !u!54 &2120381911858804006
+--- !u!54 &4082180716395601336
 Rigidbody:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
